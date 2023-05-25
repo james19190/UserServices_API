@@ -3,7 +3,7 @@
  ### [Video Demonstration](https://s3.us-east-2.amazonaws.com/programmingvideos.james19190/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%8B%A4%ED%96%89_Ex4.mp4)
  
 <h2>Description</h2>
-A simple login and logout project with admin controls and user methods
+A simple RESTful API built using Spring that returns user details
 <br />
 
 <h2>Languages and Utilities Used</h2>
